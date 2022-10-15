@@ -23,6 +23,5 @@
   <a href = "mailto:henriqueeliassh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.https://www.linkedin.com/in/henrique-parnaiba-ab1585237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/HenriqueEliasParnaiba/HenriqueEliasParnaiba/blob/output/github-contribution-grid-snake.svg)
  
 </div>

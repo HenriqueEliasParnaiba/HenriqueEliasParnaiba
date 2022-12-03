@@ -1,5 +1,7 @@
 ### Olá! Eu me chamo Henrique.
 
+🖥️Cursando Análise e Desenvolvimento de Sistemas - IFPB
+
 <div align="center">
 
   <a href="https://github.com/HenriqueEliasParnaiba">
